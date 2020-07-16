@@ -1,3 +1,3 @@
 https://test.sensorcloud.microstrain.com/SensorCloud/data/OAPI00JNMJMGOK7U/js/
-https://test.sensorcloud.microstrain.com/SensorCloud/data/Z3MFURATHIB8A032/js/
+https://sensorcloud.microstrain.com/SensorCloud/data/Z3MFURATHIB8A032/js-embed/
 https://test.sensorcloud.microstrain.com/SensorCloud/data/Z3MFURATHIB8A030/js/
